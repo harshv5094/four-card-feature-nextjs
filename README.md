@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Frontend Mentor - Four card feature section solution
 
-## Getting Started
+This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-First, run the development server:
+## Table of contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Overview
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### The challenge
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Users should be able to:
 
-## Learn More
+- View the optimal layout for the site depending on their device's screen size
 
-To learn more about Next.js, take a look at the following resources:
+### Links
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Solution URL: [https://github.com/harshv5094/four-card-feature-nextjs](https://github.com/harshv5094/four-card-feature-nextjs)
+- Live Site URL: [https://four-card-feature-nextjs.vercel.app/](https://four-card-feature-nextjs.vercel.app/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## My process
 
-## Deploy on Vercel
+### Built with
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [Tailwind CSS](https://tailwindcss.com/) - For styles
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### What I learned
+
+This challenge was a simple one but I learned how to use styled components in nextjs. I also learned how to use the grid system in nextjs.
+
+## Author
+
+- Frontend Mentor - [@harshv5094](https://www.frontendmentor.io/profile/harshv5094)
+- Twitter - [@harshv5094](https://www.twitter.com/harshv5094)
